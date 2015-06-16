@@ -1,0 +1,5 @@
+C:\Users\asaki\Desktop\C#252HW\20150514\Homework1\GuyLibrary\obj\Debug\GuyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\C#252HW\20150514\Homework1\GuyLibrary\bin\Debug\GuyLibrary.dll
+C:\Users\asaki\Desktop\C#252HW\20150514\Homework1\GuyLibrary\bin\Debug\GuyLibrary.pdb
+C:\Users\asaki\Desktop\C#252HW\20150514\Homework1\GuyLibrary\obj\Debug\GuyLibrary.dll
+C:\Users\asaki\Desktop\C#252HW\20150514\Homework1\GuyLibrary\obj\Debug\GuyLibrary.pdb

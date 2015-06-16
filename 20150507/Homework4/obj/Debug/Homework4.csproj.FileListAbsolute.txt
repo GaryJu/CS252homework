@@ -1,0 +1,5 @@
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework4\bin\Debug\Homework4.exe
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework4\bin\Debug\Homework4.pdb
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework4\obj\Debug\Homework4.exe
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework4\obj\Debug\Homework4.pdb

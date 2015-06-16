@@ -1,0 +1,9 @@
+C:\Users\asaki\Desktop\C#252HW\game\bin\Debug\game.exe.config
+C:\Users\asaki\Desktop\C#252HW\game\bin\Debug\game.exe
+C:\Users\asaki\Desktop\C#252HW\game\bin\Debug\game.pdb
+C:\Users\asaki\Desktop\C#252HW\game\obj\Debug\finger_guessing.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\C#252HW\game\obj\Debug\game.exe
+C:\Users\asaki\Desktop\C#252HW\game\obj\Debug\game.pdb
+C:\Users\asaki\Desktop\C#252HW\finger_guessing\bin\Debug\game.exe.config
+C:\Users\asaki\Desktop\C#252HW\finger_guessing\obj\Debug\game.exe
+C:\Users\asaki\Desktop\C#252HW\finger_guessing\obj\Debug\game.pdb

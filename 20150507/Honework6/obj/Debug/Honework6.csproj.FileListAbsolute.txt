@@ -1,0 +1,6 @@
+C:\Users\asaki\Desktop\C#252HW\20150507\Honework6\bin\Debug\Honework6.exe.config
+C:\Users\asaki\Desktop\C#252HW\20150507\Honework6\bin\Debug\Honework6.exe
+C:\Users\asaki\Desktop\C#252HW\20150507\Honework6\bin\Debug\Honework6.pdb
+C:\Users\asaki\Desktop\C#252HW\20150507\Honework6\obj\Debug\Honework6.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\C#252HW\20150507\Honework6\obj\Debug\Honework6.exe
+C:\Users\asaki\Desktop\C#252HW\20150507\Honework6\obj\Debug\Honework6.pdb

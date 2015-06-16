@@ -1,0 +1,15 @@
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\bin\Debug\SalaryCount.exe.config
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\obj\Debug\SalaryCount.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\obj\Debug\SalaryCount.Form1.resources
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\obj\Debug\SalaryCount.Properties.Resources.resources
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\obj\Debug\SalaryCount.csproj.GenerateResource.Cache
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\bin\Debug\SalaryCount.exe
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\bin\Debug\SalaryCount.pdb
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\obj\Debug\SalaryCount.exe
+C:\Users\asaki\Desktop\cs252_20150508\SalaryCount\obj\Debug\SalaryCount.pdb
+C:\Users\asaki\Desktop\C#252HW\20150427\SalaryCount\bin\Debug\SalaryCount.exe.config
+C:\Users\asaki\Desktop\C#252HW\20150427\SalaryCount\obj\Debug\SalaryCount.exe
+C:\Users\asaki\Desktop\C#252HW\20150427\SalaryCount\obj\Debug\SalaryCount.pdb
+C:\Users\asaki\Desktop\C#252HW\SalaryCount\bin\Debug\SalaryCount.exe.config
+C:\Users\asaki\Desktop\C#252HW\SalaryCount\obj\Debug\SalaryCount.exe
+C:\Users\asaki\Desktop\C#252HW\SalaryCount\obj\Debug\SalaryCount.pdb

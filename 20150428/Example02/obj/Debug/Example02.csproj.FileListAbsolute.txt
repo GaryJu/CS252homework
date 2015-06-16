@@ -1,0 +1,5 @@
+C:\Users\asaki\Desktop\cs252Homework\20150428\Example02\bin\Debug\Example02.exe.config
+C:\Users\asaki\Desktop\cs252Homework\20150428\Example02\bin\Debug\Example02.exe
+C:\Users\asaki\Desktop\cs252Homework\20150428\Example02\bin\Debug\Example02.pdb
+C:\Users\asaki\Desktop\cs252Homework\20150428\Example02\obj\Debug\Example02.exe
+C:\Users\asaki\Desktop\cs252Homework\20150428\Example02\obj\Debug\Example02.pdb

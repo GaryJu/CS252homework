@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\cs252_20150428\game\bin\Debug\game.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\cs252_20150428\game\bin\Debug\game.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\cs252_20150428\game\bin\Debug\game.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\cs252_20150428\game\obj\Debug\game.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\cs252_20150428\game\obj\Debug\game.pdb
+C:\Users\asaki\Desktop\cs252_20150428\game\bin\Debug\game.exe.config
+C:\Users\asaki\Desktop\cs252_20150428\game\obj\Debug\game.exe
+C:\Users\asaki\Desktop\cs252_20150428\game\obj\Debug\game.pdb
+C:\Users\asaki\Desktop\cs252_20150428\game\bin\Debug\game.exe
+C:\Users\asaki\Desktop\cs252_20150428\game\bin\Debug\game.pdb
+C:\Users\asaki\Desktop\cs252_20150428\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\C#252HW\game\bin\Debug\game.exe.config
+C:\Users\asaki\Desktop\C#252HW\game\obj\Debug\game.exe
+C:\Users\asaki\Desktop\C#252HW\game\obj\Debug\game.pdb

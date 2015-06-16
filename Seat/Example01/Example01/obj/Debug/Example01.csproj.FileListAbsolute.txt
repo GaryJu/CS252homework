@@ -1,0 +1,12 @@
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\bin\Debug\Example01.exe.config
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\bin\Debug\Example01.exe
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\bin\Debug\Example01.pdb
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\obj\Debug\Example01.Form1.resources
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\obj\Debug\Example01.exe
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\obj\Debug\Example01.pdb
+C:\Users\asaki\Desktop\C#252HW\Seat\Example01\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\cs252Homework\Seat\Example01\Example01\bin\Debug\Example01.exe.config
+C:\Users\asaki\Desktop\cs252Homework\Seat\Example01\Example01\obj\Debug\Example01.exe
+C:\Users\asaki\Desktop\cs252Homework\Seat\Example01\Example01\obj\Debug\Example01.pdb

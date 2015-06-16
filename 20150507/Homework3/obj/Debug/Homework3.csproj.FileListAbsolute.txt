@@ -1,0 +1,6 @@
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework3\bin\Debug\Homework3.exe
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework3\bin\Debug\Homework3.pdb
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework3\obj\Debug\Homework3.exe
+C:\Users\asaki\Desktop\C#252HW\20150507\Homework3\obj\Debug\Homework3.pdb

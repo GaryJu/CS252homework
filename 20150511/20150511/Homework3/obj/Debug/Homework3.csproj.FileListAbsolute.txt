@@ -1,0 +1,9 @@
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\bin\Debug\Homework3.exe
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\bin\Debug\Homework3.pdb
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\obj\Debug\Homework3.Form1.resources
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\obj\Debug\Homework3.Properties.Resources.resources
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\obj\Debug\Homework3.csproj.GenerateResource.Cache
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\obj\Debug\Homework3.exe
+C:\Users\asaki\Desktop\C#252HW\20150511\20150511\Homework3\obj\Debug\Homework3.pdb
